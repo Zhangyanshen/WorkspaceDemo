@@ -159,7 +159,7 @@
 				23A55C2523CC4E94004F0006 /* Sources */,
 				23A55C2623CC4E94004F0006 /* Frameworks */,
 				23A55C2723CC4E94004F0006 /* Resources */,
-				23A55CEB23CC65AE004F0006 /* ShellScript */,
+				23A55CEB23CC65AE004F0006 /* Copy Resources */,
 			);
 			buildRules = (
 			);
@@ -276,7 +276,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		23A55CEB23CC65AE004F0006 /* ShellScript */ = {
+		23A55CEB23CC65AE004F0006 /* Copy Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -285,6 +285,7 @@
 			);
 			inputPaths = (
 			);
+			name = "Copy Resources";
 			outputFileListPaths = (
 			);
 			outputPaths = (
